@@ -1,1 +1,1 @@
-# laughing-octo-rotary-phone
+Forex gbp/usd forecasting
